@@ -10,7 +10,7 @@ wokwi-project.txt – Link reference to the original simulation on Wokwi.
 
 
 🔗 Live Simulation
-🎮 Click below to open the simulation:
+🎮 Click below to open the simulation: https://wokwi.com/projects/436754443103208449
 
 
 ⚙️ Hardware Components Used (in simulation)
